@@ -1,0 +1,15 @@
+.headText{
+    font-size: .8rem;
+    letter-spacing: 4px;
+    color: var(--Neon-Green);
+}
+.mainText{
+    font-size: 1.8rem;
+    height: 150px;
+}
+.divisor{
+    background-image: url(/images/pattern-divider-desktop.svg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 20px;
+}
