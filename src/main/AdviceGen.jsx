@@ -32,7 +32,6 @@ function RollAdvice() {
         <div className="main" role="main">
             <AdviceText label={list.advice} num={list.id} />
             <Button onClick={() => setCheck(!check)} />
-            {/* <Button onClick={test} /> */}
         </div>
     );
 }

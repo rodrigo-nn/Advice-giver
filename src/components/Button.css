@@ -3,6 +3,7 @@
     left: 0;
     right: 0;
     /* top: 64.5%; */
+    top: 45px;
     margin-left: auto;
     margin-right: auto;
     background-image: url(/images/icon-dice.svg);
